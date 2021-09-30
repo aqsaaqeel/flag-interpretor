@@ -9,7 +9,9 @@ var flagDictionary = {
   "🇮🇪": "Ireland",
   "🇲🇱": "Mali",
   "🇷🇴": "Romania",
-  "🇹🇩": "Chad"
+  "🇹🇩": "Chad",
+  "🇹🇭": "Thailand",
+  "🇨🇷": "Costa Rica"
 };
 
 var flagsWeKnow = Object.keys(flagDictionary);
